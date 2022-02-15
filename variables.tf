@@ -5,7 +5,7 @@ variable "rgName" {
 
 variable "location" {
     type = string
-    default = "canada east"
+    default = "canada central"
 }
 
 variable "subscription_id" {
