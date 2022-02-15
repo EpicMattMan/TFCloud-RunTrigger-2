@@ -5,7 +5,7 @@ output "rgName" {
 
 output "location" {
   description = "The location for resources"
-  value = "canada central"
+  value = var.location
 }
 
 output "subnet1_id" {
